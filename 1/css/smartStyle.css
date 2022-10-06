@@ -1,0 +1,39 @@
+@media screen and (max-width: 479px) {
+    .header {
+        width: 200px;
+        height: 220px;
+     }
+
+     #red-three-conteiner {
+        display: block;
+        margin-left: 70px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+     }
+
+     .main {
+        flex-flow: column;
+     }
+
+     .left {
+        width: 200px;
+        height: 100px;
+     }
+
+     .right {
+        width: 200px;
+        height: 230px;
+     }
+
+     .orengeConteiner {
+        top: 20px;
+        right: 20px; 
+     }
+
+    .orenge {
+        width: 140px;
+    }
+
+     .footer {
+        width: 200px;
+}
